@@ -1,0 +1,12 @@
+
+.parent{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: auto;
+}
+
+.parent>img{
+    border: 1px solid gray;
+    width: 100%;
+    height: 600px;
+}

@@ -1,11 +1,11 @@
 import React from 'react'
-// import Carousel from '../components/Carousel'
+import Carousel from '../components/Carousel'
 import Footer from '../components/Footer'
 
 const Home = () => {
   return (
     <div>
-      {/* <Carousel/> */}
+      <Carousel/>
       <Footer/>
     </div>
   )
